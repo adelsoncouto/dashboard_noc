@@ -1,1 +1,1 @@
-# Aplicativo para gerenciar imobiliária
+# Dashboard para gerenciar chamados
