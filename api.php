@@ -1,9 +1,9 @@
 <?php
 require_once 'vendor/autoload.php';
 date_default_timezone_set("America/Sao_Paulo");
-ini_set("display_errors",1);
-ini_set("display_startup_erros",1);
-error_reporting(E_ALL);
+// ini_set("display_errors",1);
+// ini_set("display_startup_erros",1);
+// error_reporting(E_ALL);
 
 //define o tipo de retorno deve ser json
 header('Content-Type: application/json');
